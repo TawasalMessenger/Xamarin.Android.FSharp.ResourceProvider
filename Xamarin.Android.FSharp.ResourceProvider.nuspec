@@ -16,6 +16,6 @@
     </metadata>
     <files>
         <file src="bin/Xamarin.Android.FSharp.ResourceProvider.Runtime.dll" target="lib/monoandroid90/Xamarin.Android.FSharp.ResourceProvider.Runtime.dll" />
-        <file src="bin/Xamarin.Android.FSharp.ResourceProvider.dll" target="lib/monoandroid90/Xamarin.Android.FSharp.ResourceProvider.dll" />
+        <file src="bin/netstandard2.0/Xamarin.Android.FSharp.ResourceProvider.dll" target="lib/monoandroid90/Xamarin.Android.FSharp.ResourceProvider.dll" />
     </files>
 </package>
