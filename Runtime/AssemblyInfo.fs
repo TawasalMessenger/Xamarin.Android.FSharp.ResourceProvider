@@ -8,7 +8,7 @@ open System.Reflection
 
 // The assembly version has the format {Major}.{Minor}.{Build}.{Revision}
 
-[<assembly: AssemblyVersion("1.0.29.3")>]
+[<assembly: AssemblyVersion("1.0.29.4")>]
 
 //[<assembly: AssemblyDelaySign(false)>]
 //[<assembly: AssemblyKeyFile("")>]
